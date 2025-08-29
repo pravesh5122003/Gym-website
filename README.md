@@ -15,7 +15,7 @@ FitClub is a modern, responsive website for a fitness center. It's designed to a
 -   **Trainers:** Profiles of all certified personal trainers.
 -   **Pricing:** Transparent membership plans.
 -   **Testimonials:** Member success stories and reviews.
--   **Contact:** An easy-to-use inquiry form.
+-   **Contact:** An easy-to-use inquiry deatails through form.
 -   **Responsive Design:** Optimized for all devices.
 
 ---
