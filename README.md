@@ -1,4 +1,4 @@
-# React + Vite
+## React + Vite
 
 # FitClub - Your Ultimate Fitness Destination
 
