@@ -4,7 +4,7 @@
 
 ### Project Description
 
-FitClub is a modern, responsive website for a fitness center. It's designed to attract new members, provide information on classes and trainers, and allow for easy navigation. The site features sections for classes, trainer profiles, membership pricing, and testimonials.
+FitClub is a modern, responsive website for a fitness center. It's designed to attract new members, provide information on classes and trainers and allow for easy navigation. The site features sections for classes, trainer profiles, membership pricing, and testimonials.
 
 ---
 
